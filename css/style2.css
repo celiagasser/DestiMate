@@ -1,0 +1,9 @@
+.container-mobile {
+  width: 375px;
+  background-image: url(../Images/Destimates.png);
+  text-align: center;
+  margin: auto;
+  min-height: 667px;
+  padding: 0px 0px;
+}
+
