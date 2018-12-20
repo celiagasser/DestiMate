@@ -1,0 +1,54 @@
+.container-mobile {
+  width: 414px;
+  background-image: url(tour.jpeg);
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+  background-size: cover;
+
+}
+.img-circle{
+	border-radius: 50%;
+}
+.shadowed{
+	box-shadow: 5px 5px 3px black;
+}
+h1{
+  margin-bottom: 48px;
+  font-family: Aller;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  font-size: 40px;
+  padding-top: 35px;
+
+  color: #D59B3A;
+
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+
+}
+h2{
+  margin-left: -100;
+}
+p{
+  margin-left: -100;
+}
+body {
+  margin: 0px;
+  background-color: black;
+
+  
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 18px;
+
+color: #000000;
+  .img-circle
+      margin-bottom: -12px;
+
+}
+
+

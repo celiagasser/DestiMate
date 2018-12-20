@@ -1,0 +1,22 @@
+
+.container-mobile {
+  width: 414px;
+  background-image: url(../images/fond5.png);
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+  background-size: 424px 705px;
+
+}
+.img-circle{
+	border-radius: 50%;
+}
+.shadowed{
+	box-shadow: 5px 5px 3px black;
+}
+
+
+body {
+ 
+}

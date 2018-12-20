@@ -1,0 +1,99 @@
+.container-mobile {
+  width: 414px;
+  background-image: url(../images/fondp1.jpeg);
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+  background-size: cover;
+
+
+}
+.img-circle{
+	border-radius: 50%;
+}
+.shadowed{
+	box-shadow: 5px 5px 3px black;
+}
+h1{
+	    margin-bottom: 32px;
+	    font-family: Aller;
+line-height: normal;
+font-size: 40px;
+
+color: #FFFFFF;
+
+text-shadow: 3px 4px 4px #603503;
+
+	    
+}
+
+h2{
+	    margin-bottom: 58px;
+	    font-family: Aller;
+line-height: normal;
+font-size: 40px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px #6F3E03;
+	  
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+  color: white;
+
+  .img-circle
+}
+
+.flex {
+	display: flex;
+	justify-content: space-around;
+	    background-color: white ;
+	    color: black;
+
+	     opacity: 0.5;
+
+	        margin-bottom: 110px;
+	     margin-left:50px;
+	     margin-right:50px;
+
+}
+p{
+	margin-bottom:50px;
+
+
+}
+h4{
+	background-color: white;
+	color: black;
+	opacity: 0.5;
+	margin-left:50;
+	margin-right:50;
+	    margin-bottom: 110px;
+	    font-size:20px;
+	 font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+
+
+color: #000000;
+}
+h3{
+	    background-color: orange;
+	    margin-left: 90;
+	    margin-right:90;
+	        margin-bottom: 141px;
+	        font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+
+color: #FFFFFF;
+	        font-size: 25px;
+	        
+
+}

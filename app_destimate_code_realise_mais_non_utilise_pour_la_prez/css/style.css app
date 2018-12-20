@@ -1,0 +1,13 @@
+.container-mobile {
+  width: 414px;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+}
