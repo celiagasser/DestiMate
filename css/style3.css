@@ -75,3 +75,7 @@ body {
  	margin-left: 103px;
  	box-shadow: 3px 2px 4px 0;
  }
+
+a {
+	text-decoration : none;
+}
